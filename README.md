@@ -1,6 +1,7 @@
 # HackClub-Moonshot
 Repository of my submissions to Moonshot Challenge!
   ## **Project #1: Seiri - an Academic + Personal organizer app!** 
+<img width="2480" height="1000" alt="image" src="https://github.com/user-attachments/assets/f0d2ace3-6b47-43af-8771-b3fe07b5e76d" />
 
   ### goals
 
