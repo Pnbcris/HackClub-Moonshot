@@ -1,3 +1,5 @@
+seiri-app/node_modules
+
 seiri-app/node_modules/.package-lock.json
 seiri-app/node_modules/.bin/electron
 seiri-app/node_modules/.bin/electron.cmd
