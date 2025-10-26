@@ -1,5 +1,16 @@
 # HackClub-Moonshot
-Repository of my submissions to Moonshot Challenge!
+<img width="1310" height="894" alt="image" src="https://github.com/user-attachments/assets/ce88470b-4159-492e-8f1c-e8fd44640e5c" />
+
+
+
+
+
+
+
+
+
+
+
   ## **Project #1: Seiri - an Academic + Personal organizer app!** 
 <img width="2480" height="1000" alt="image" src="https://github.com/user-attachments/assets/f0d2ace3-6b47-43af-8771-b3fe07b5e76d" />
 
