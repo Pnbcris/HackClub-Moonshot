@@ -5,7 +5,7 @@ I began today with trying to figure out what my project should even be about. I 
 
 The first step I wanted to embark on was coming up with a name for said project; I dont want the name to be too long; I would prefer it to be easy to remember, or at least hold its significance; after a while, I landed on the word "Seiri", which is a term that means "sorting." idealy it is also one of the first steps in the 5S methodology. Not to get too off topic but it feels appropriate; so with the following hour, I designed a logo for a banner/icon of the web/app on Aseprite;
 
-## **October 21st : Set Up is my Set Up to losing my mind (kidding) **
+## **October 21st : Set Up is my Set Up to losing my mind (kidding)**
 But seriously, im having a bit of a hard time with setting up branches. its a new experience, but its taking too many trials and too many errors to get them to actually work (P_P). Effectively, ive only made like 30 minutes worth of progress so far (as of 10:35PM), however this might count as a learning experience; I will continue working today until I get the basic window pop up to run properly and get at least the 1st stage of my vision built...
 
 ## **October 27th : change of focus; beginning hardware design + electronic block diagram for device**
