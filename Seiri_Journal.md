@@ -10,3 +10,4 @@ But seriously, im having a bit of a hard time with setting up branches. its a ne
 
 ## **October 27th : change of focus; beginning hardware design + electronic block diagram for device**
 It's been hard seeing similar apps on the market/generic app idea, but one thing ive picked up on is it only being an app; if I can figure out a way to make this into a software that has a dedicated device, it would become a pretty unique idea! Not sure how long this would take but so far, Designining the general shape/chassis looks like its going smoothly (in the meantime, I will be trying to learn React framework when I can; I wasted too much time on Electron to not figure out how it works...)
+<img width="1508" height="827" alt="image" src="https://github.com/user-attachments/assets/8f94fd11-1338-4b4f-bec7-981a5b5239dd" />
