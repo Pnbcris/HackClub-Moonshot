@@ -1,3 +1,5 @@
+**NOTE: please discredit 1 hour of work due to wasting it trying to figure out how to set up Electron, which I inevitably failed to do so**
+
 ## **October 19th : Brainstorm Project + Working on Logos**
 I began today with trying to figure out what my project should even be about. I tried using Notion + Google Calendar to track my activity and create a gantt chart, yet after a couple hours, I gave up, simply because its too time consuming and every iteration of trying to get it to function together ends up taking too long to update/never updates. So I believe that is what my project would surround, creating a more responsive student friendly application which could remove the additional headaches that come with personal planners. I also believe it would be a great touch to also iterate other features that would help with academic success; could be flash cards, a pomodoro timer or simply notepad boards; whatever one might desire for the most optimal organization, it would be there; It's definetly an ambitious goal but its worth a shot;
 
@@ -5,3 +7,6 @@ The first step I wanted to embark on was coming up with a name for said project;
 
 ## **October 21st : Set Up is my Set Up to losing my mind (kidding) **
 But seriously, im having a bit of a hard time with setting up branches. its a new experience, but its taking too many trials and too many errors to get them to actually work (P_P). Effectively, ive only made like 30 minutes worth of progress so far (as of 10:35PM), however this might count as a learning experience; I will continue working today until I get the basic window pop up to run properly and get at least the 1st stage of my vision built...
+
+## **October 27th : change of focus; beginning hardware design + electronic block diagram for device**
+It's been hard seeing similar apps on the market/generic app idea, but one thing ive picked up on is it only being an app; if I can figure out a way to make this into a software that has a dedicated device, it would become a pretty unique idea! Not sure how long this would take but so far, Designining the general shape/chassis looks like its going smoothly (in the meantime, I will be trying to learn React framework when I can; I wasted too much time on Electron to not figure out how it works...)
