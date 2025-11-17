@@ -15,4 +15,6 @@ It's been hard seeing similar apps on the market/generic app idea, but one thing
 ---
 **Oct (27th continued): I plan to create a RasPi custom imager, since I already have a Rasberry Pi 4b at my disposal, and I think it would be a good idea to make it be the main source of control for the device... if time permits, I will try to make an attempt towards creating a custom raspi-based PCB as the brain of my device...**
 
+**testing out changes**
+
 
